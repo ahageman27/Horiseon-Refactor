@@ -11,3 +11,7 @@ Fixed link for search-engine-optimization section by adding id element
 Added alt tags to images
 Changed title to be relevant
 Consolidated CSS elements to make style.css more readable and efficient and updated classes in index.html to accommodate
+
+### URL
+
+https://ahageman27.github.io/Horiseon-Refactor/
