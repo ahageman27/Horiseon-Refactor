@@ -15,3 +15,7 @@ Consolidated CSS elements to make style.css more readable and efficient and upda
 ### URL
 
 https://ahageman27.github.io/Horiseon-Refactor/
+
+### Screenshot
+
+![Horiseon webpage including navigation bar, multiple elements for search engine optimization, online reputation management, and social media marketing, as well as a side bar including benefits](./assets/images/Horiseon-screenshot.jpg)
